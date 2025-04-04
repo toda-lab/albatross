@@ -3,7 +3,7 @@
 - Obtain [CaDiCaL](https://github.com/arminbiere/cadical).
 - Put all files in this repository to the top directory of CaDiCaL.
 - Build CaDiCaL.
-- Execute `./compile` to compile albatross solver.
+- Execute `./compile.sh` to compile albatross solver.
 # Usage
 ```
 $ ./albatross dimacs-cnf-file
