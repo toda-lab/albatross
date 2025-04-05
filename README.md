@@ -1,6 +1,6 @@
 # Albatross SAT Solver
 # Build
-- Obtain [CaDiCaL](https://github.com/arminbiere/cadical).
+- Get [CaDiCaL](https://github.com/arminbiere/cadical).
 - Put all files in this repository to the top directory of CaDiCaL.
 - Build CaDiCaL.
 - Execute `./compile.sh` to compile albatross solver.
